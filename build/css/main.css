@@ -1,15 +1,37 @@
-.test-class {
-  color: blueviolet;
-  transition: background-color 1s ease-in;
-  border-radius: 10px;
-  padding: 10px;
-  text-align: top; }
-  .test-class:hover {
-    background-color: black; }
+body {
+  margin: 0;
+  padding: 0; }
 
-p {
-  color: red;
-  font-size: 25px; }
+.content {
+  width: 1200px;
+  margin: 0 auto; }
 
-div p {
-  font-size: 20px; }
+.block_1 {
+  height: 800px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  background: url("../img/bg_element_.png") no-repeat center top/cover; }
+
+.logo_div {
+  width: 82px; }
+
+.f_1 {
+  display: block;
+  margin: 0 auto; }
+
+.f {
+  text-align: center; }
+
+.f_2 {
+  color: #000000;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase; }
+
+.f_3 {
+  color: #000000;
+  font-family: Lato;
+  font-size: 4px;
+  font-weight: 400;
+  text-transform: uppercase; }
