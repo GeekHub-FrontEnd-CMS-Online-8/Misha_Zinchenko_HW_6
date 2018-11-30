@@ -157,3 +157,44 @@ header {
   font-weight: 500;
   line-height: 49px;
   width: 370px; }
+
+/* ------------------------------------ */
+.block_5 {
+  padding-bottom: 127px;
+  display: flex; }
+
+.block_5 hr {
+  width: 40px;
+  height: 4px;
+  background-color: #212121;
+  opacity: 0.6;
+  margin: 0px 0px 0px 60px; }
+
+.block_5 h2 {
+  margin-left: 540px;
+  padding-bottom: 60px; }
+
+.block_5 img {
+  margin-left: 100px; }
+
+/* ------------------------------------ */
+.block_6 {
+  padding-top: 126px;
+  padding-bottom: 123px;
+  background: #f6f6f6; }
+
+.block_6 hr {
+  width: 40px;
+  height: 4px;
+  background-color: #212121;
+  opacity: 0.6;
+  margin: 0px 0px 0px 60px; }
+
+.block_6 h2 {
+  margin-left: 540px;
+  padding-bottom: 45px; }
+
+.fw_2 {
+  padding: 15px; }
+
+/* ------------------------------------ */
